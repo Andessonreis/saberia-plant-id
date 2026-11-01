@@ -442,7 +442,7 @@ A maior parte das fotos de referência e de teste é CC BY-NC. O índice contém
 
 ```bibtex
 @software{matos_2026_saberia_plant_id,
-  author  = {Matos, Andesson dos Reis and Souza, Leandro Oliveira de},
+  author  = {Matos, Andesson Reis and Oliveira, Leandro},
   title   = {{SaberIA Plant ID}: offline identification of medicinal plants of the Caatinga},
   year    = {2026},
   version = {1.0.0},
@@ -475,7 +475,7 @@ Cite também o BioCLIP 2:
 
 ## Agradecimentos e contato
 
-- **Autor:** Andesson dos Reis Matos, Instituto Federal da Bahia (IFBA), Campus Irecê. andesson.reis@ifba.edu.br · [GitHub](https://github.com/Andessonreis) · [Hugging Face](https://huggingface.co/andessonIF)
-- **Orientador:** Prof. Leandro Oliveira de Souza (IFBA)
+- **Autor:** Andesson Reis Matos, Instituto Federal da Bahia (IFBA), Campus Irecê. andesson.reis@ifba.edu.br · [GitHub](https://github.com/Andessonreis) · [Hugging Face](https://huggingface.co/andessonIF)
+- **Orientador:** Dr. Leandro Oliveira (IFBA)
 - Projeto de Iniciação Científica (PIBITI/IFBA 2025-2026), apresentado no XXIII SICTI / VII CPPGI.
 - Agradecimentos ao [Imageomics Institute](https://imageomics.osu.edu) por publicar o BioCLIP 2 com licença aberta, aos observadores do iNaturalist cujas fotos tornaram possíveis o índice de referência e o conjunto de teste, e às pessoas da comunidade que testaram o app nas oficinas.
