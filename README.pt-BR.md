@@ -13,9 +13,9 @@
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20modelo-andessonIF%2Fsaberia--plant--id-ffcc4d)](https://huggingface.co/andessonIF/saberia-plant-id)
 [![Release](https://img.shields.io/github/v/release/Andessonreis/saberia-plant-id?color=2f6f3e)](https://github.com/Andessonreis/saberia-plant-id/releases/latest)
 
-<img src="docs/img/screens.png" alt="Aplicativo SaberIA: tela inicial, resultado do juazeiro, resultado do mandacaru e uma foto com confiança baixa em que o app pede outra imagem" width="100%">
+<img src="docs/img/screens.png" alt="Aplicativo SaberIA: tela inicial e uma foto com confiança baixa em que o app pede outra imagem" width="520">
 
-<sub>Telas reais do SaberIA (Redmi 12, modo avião). Da esquerda para a direita: início, resultado do <i>juazeiro</i>, resultado do <i>mandacaru</i> e uma foto que o app não nomeou porque a confiança ficou baixa.</sub>
+<sub>Telas reais do SaberIA (Redmi 12, modo avião). À esquerda, o início. À direita, uma foto do tronco de <i>Astronium urundeuva</i> que o app não nomeou porque a confiança ficou baixa. Foto: Thomaz Ricardo Favreto Sinani, <a href="https://www.inaturalist.org/observations/354557278">iNaturalist 354557278</a>, CC BY.</sub>
 
 </div>
 
