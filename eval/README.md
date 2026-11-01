@@ -1,5 +1,7 @@
 # Evaluation and index build
 
+> **Main evaluation:** the scale evaluation (5,791 photos of 157 species, 95% CIs, contamination analysis, index v1.0.1) is in [`scale/`](scale/), see [`scale/RESULTS.md`](scale/RESULTS.md). The scripts and data in this folder are the index build and the earlier development set used to choose the model and calibrate the 0.75 threshold.
+
 Scripts used to build `plant-index.bin` and to produce the numbers in the main README. All of them take a working directory `W` as the first argument and expect this layout:
 
 ```text
