@@ -441,7 +441,7 @@ A maior parte das fotos de referência e de teste é CC BY-NC. O índice contém
 ## Como citar
 
 ```bibtex
-@software{matos_2026_saberia_plant_id,
+@software{reis_2026_saberia_plant_id,
   author  = {Reis, Andesson and Souza, Leandro Oliveira de},
   title   = {{SaberIA Plant ID}: offline identification of medicinal plants of the Caatinga},
   year    = {2026},
