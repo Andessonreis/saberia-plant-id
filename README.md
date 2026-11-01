@@ -13,9 +13,9 @@
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20model-andessonIF%2Fsaberia--plant--id-ffcc4d)](https://huggingface.co/andessonIF/saberia-plant-id)
 [![Release](https://img.shields.io/github/v/release/Andessonreis/saberia-plant-id?color=2f6f3e)](https://github.com/Andessonreis/saberia-plant-id/releases/latest)
 
-<img src="docs/img/screens.png" alt="SaberIA app: home screen, and a low-confidence photo where the app asks for another picture" width="520">
+<img src="docs/img/screens.png" alt="SaberIA app identifying a juazeiro and an umbuzeiro offline, in airplane mode" width="520">
 
-<sub>Real screens of the SaberIA app (Redmi 12, airplane mode). Left: home. Right: a photo of <i>Astronium urundeuva</i> bark that the app refused to name because confidence was too low. Photo: Thomaz Ricardo Favreto Sinani, <a href="https://www.inaturalist.org/observations/354557278">iNaturalist 354557278</a>, CC BY.</sub>
+<sub>Real screens of the SaberIA app on an Android phone in airplane mode. Left: juazeiro (<i>Sarcomphalus joazeiro</i>), confidence 1.00. Right: umbuzeiro (<i>Spondias tuberosa</i>), confidence 0.97. About 3 s per photo. Photos from iNaturalist: <a href="https://www.inaturalist.org/observations/386235537">386235537</a> by marcello_ofiologia (CC BY) and <a href="https://www.inaturalist.org/observations/364868810">364868810</a> by taize (CC0).</sub>
 
 </div>
 

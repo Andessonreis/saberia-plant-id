@@ -13,9 +13,9 @@
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20modelo-andessonIF%2Fsaberia--plant--id-ffcc4d)](https://huggingface.co/andessonIF/saberia-plant-id)
 [![Release](https://img.shields.io/github/v/release/Andessonreis/saberia-plant-id?color=2f6f3e)](https://github.com/Andessonreis/saberia-plant-id/releases/latest)
 
-<img src="docs/img/screens.png" alt="Aplicativo SaberIA: tela inicial e uma foto com confiança baixa em que o app pede outra imagem" width="520">
+<img src="docs/img/screens.png" alt="Aplicativo SaberIA identificando um juazeiro e um umbuzeiro sem internet, em modo avião" width="520">
 
-<sub>Telas reais do SaberIA (Redmi 12, modo avião). À esquerda, o início. À direita, uma foto do tronco de <i>Astronium urundeuva</i> que o app não nomeou porque a confiança ficou baixa. Foto: Thomaz Ricardo Favreto Sinani, <a href="https://www.inaturalist.org/observations/354557278">iNaturalist 354557278</a>, CC BY.</sub>
+<sub>Telas reais do SaberIA em um celular Android em modo avião. À esquerda, juazeiro (<i>Sarcomphalus joazeiro</i>), confiança 1,00. À direita, umbuzeiro (<i>Spondias tuberosa</i>), confiança 0,97. Cerca de 3 s por foto. Fotos do iNaturalist: <a href="https://www.inaturalist.org/observations/386235537">386235537</a>, de marcello_ofiologia (CC BY), e <a href="https://www.inaturalist.org/observations/364868810">364868810</a>, de taize (CC0).</sub>
 
 </div>
 
