@@ -1,0 +1,487 @@
+{
+ "linha_de_base": "publicado",
+ "indices": {
+  "publicado": {
+   "geral": {
+    "n": 5791,
+    "top1": {
+     "k": 5143,
+     "n": 5791,
+     "p": 0.8881,
+     "ic95": [
+      0.8797,
+      0.896
+     ]
+    },
+    "top3": {
+     "k": 5572,
+     "n": 5791,
+     "p": 0.9622,
+     "ic95": [
+      0.957,
+      0.9668
+     ]
+    },
+    "no_limiar": {
+     "aceitas": {
+      "k": 4405,
+      "n": 5791,
+      "p": 0.7607,
+      "ic95": [
+       0.7495,
+       0.7715
+      ]
+     },
+     "acerto_entre_aceitas": {
+      "k": 4284,
+      "n": 4405,
+      "p": 0.9725,
+      "ic95": [
+       0.9673,
+       0.977
+      ]
+     },
+     "erro_entre_aceitas": {
+      "k": 121,
+      "n": 4405,
+      "p": 0.0275,
+      "ic95": [
+       0.023,
+       0.0327
+      ]
+     },
+     "acerto_e_aceita_sobre_total": {
+      "k": 4284,
+      "n": 5791,
+      "p": 0.7398,
+      "ic95": [
+       0.7283,
+       0.7509
+      ]
+     },
+     "recusadas": {
+      "k": 1386,
+      "n": 5791,
+      "p": 0.2393,
+      "ic95": [
+       0.2285,
+       0.2505
+      ]
+     }
+    }
+   },
+   "especies_chave": {
+    "n": 1986,
+    "top1": {
+     "k": 1675,
+     "n": 1986,
+     "p": 0.8434,
+     "ic95": [
+      0.8268,
+      0.8587
+     ]
+    },
+    "top3": {
+     "k": 1871,
+     "n": 1986,
+     "p": 0.9421,
+     "ic95": [
+      0.9309,
+      0.9515
+     ]
+    }
+   },
+   "demais_especies": {
+    "n": 3805,
+    "top1": {
+     "k": 3468,
+     "n": 3805,
+     "p": 0.9114,
+     "ic95": [
+      0.902,
+      0.92
+     ]
+    },
+    "top3": {
+     "k": 3701,
+     "n": 3805,
+     "p": 0.9727,
+     "ic95": [
+      0.967,
+      0.9774
+     ]
+    }
+   },
+   "fora_da_base_falso_positivo": {
+    "k": 37,
+    "n": 300,
+    "p": 0.1233,
+    "ic95": [
+     0.0908,
+     0.1654
+    ]
+   },
+   "alvo": {
+    "astronium_urundeuva": {
+     "n": 77,
+     "top1": {
+      "k": 43,
+      "n": 77,
+      "p": 0.5584,
+      "ic95": [
+       0.4474,
+       0.6639
+      ]
+     },
+     "top3": {
+      "k": 51,
+      "n": 77,
+      "p": 0.6623,
+      "ic95": [
+       0.5512,
+       0.758
+      ]
+     }
+    },
+    "erythrina_velutina": {
+     "n": 100,
+     "top1": {
+      "k": 59,
+      "n": 100,
+      "p": 0.59,
+      "ic95": [
+       0.492,
+       0.6813
+      ]
+     },
+     "top3": {
+      "k": 76,
+      "n": 100,
+      "p": 0.76,
+      "ic95": [
+       0.6677,
+       0.8331
+      ]
+     }
+    },
+    "commiphora_leptophloeos": {
+     "n": 95,
+     "top1": {
+      "k": 66,
+      "n": 95,
+      "p": 0.6947,
+      "ic95": [
+       0.5961,
+       0.7783
+      ]
+     },
+     "top3": {
+      "k": 93,
+      "n": 95,
+      "p": 0.9789,
+      "ic95": [
+       0.9265,
+       0.9942
+      ]
+     }
+    }
+   }
+  },
+  "v1.0.1": {
+   "geral": {
+    "n": 5791,
+    "top1": {
+     "k": 5164,
+     "n": 5791,
+     "p": 0.8917,
+     "ic95": [
+      0.8835,
+      0.8995
+     ]
+    },
+    "top3": {
+     "k": 5596,
+     "n": 5791,
+     "p": 0.9663,
+     "ic95": [
+      0.9614,
+      0.9707
+     ]
+    },
+    "no_limiar": {
+     "aceitas": {
+      "k": 4425,
+      "n": 5791,
+      "p": 0.7641,
+      "ic95": [
+       0.753,
+       0.7749
+      ]
+     },
+     "acerto_entre_aceitas": {
+      "k": 4311,
+      "n": 4425,
+      "p": 0.9742,
+      "ic95": [
+       0.9691,
+       0.9785
+      ]
+     },
+     "erro_entre_aceitas": {
+      "k": 114,
+      "n": 4425,
+      "p": 0.0258,
+      "ic95": [
+       0.0215,
+       0.0309
+      ]
+     },
+     "acerto_e_aceita_sobre_total": {
+      "k": 4311,
+      "n": 5791,
+      "p": 0.7444,
+      "ic95": [
+       0.733,
+       0.7555
+      ]
+     },
+     "recusadas": {
+      "k": 1366,
+      "n": 5791,
+      "p": 0.2359,
+      "ic95": [
+       0.2251,
+       0.247
+      ]
+     }
+    }
+   },
+   "especies_chave": {
+    "n": 1986,
+    "top1": {
+     "k": 1703,
+     "n": 1986,
+     "p": 0.8575,
+     "ic95": [
+      0.8414,
+      0.8722
+     ]
+    },
+    "top3": {
+     "k": 1898,
+     "n": 1986,
+     "p": 0.9557,
+     "ic95": [
+      0.9457,
+      0.9639
+     ]
+    }
+   },
+   "demais_especies": {
+    "n": 3805,
+    "top1": {
+     "k": 3461,
+     "n": 3805,
+     "p": 0.9096,
+     "ic95": [
+      0.9001,
+      0.9183
+     ]
+    },
+    "top3": {
+     "k": 3698,
+     "n": 3805,
+     "p": 0.9719,
+     "ic95": [
+      0.9661,
+      0.9767
+     ]
+    }
+   },
+   "fora_da_base_falso_positivo": {
+    "k": 37,
+    "n": 300,
+    "p": 0.1233,
+    "ic95": [
+     0.0908,
+     0.1654
+    ]
+   },
+   "alvo": {
+    "astronium_urundeuva": {
+     "n": 77,
+     "top1": {
+      "k": 59,
+      "n": 77,
+      "p": 0.7662,
+      "ic95": [
+       0.6605,
+       0.8467
+      ]
+     },
+     "top3": {
+      "k": 70,
+      "n": 77,
+      "p": 0.9091,
+      "ic95": [
+       0.824,
+       0.9553
+      ]
+     }
+    },
+    "erythrina_velutina": {
+     "n": 100,
+     "top1": {
+      "k": 73,
+      "n": 100,
+      "p": 0.73,
+      "ic95": [
+       0.6357,
+       0.8073
+      ]
+     },
+     "top3": {
+      "k": 87,
+      "n": 100,
+      "p": 0.87,
+      "ic95": [
+       0.7902,
+       0.9224
+      ]
+     }
+    },
+    "commiphora_leptophloeos": {
+     "n": 95,
+     "top1": {
+      "k": 67,
+      "n": 95,
+      "p": 0.7053,
+      "ic95": [
+       0.6071,
+       0.7875
+      ]
+     },
+     "top3": {
+      "k": 94,
+      "n": 95,
+      "p": 0.9895,
+      "ic95": [
+       0.9428,
+       0.9981
+      ]
+     }
+    }
+   },
+   "pareado_top1": {
+    "erradas_que_viraram_certas": 32,
+    "certas_que_viraram_erradas": 11,
+    "mcnemar_p": 0.0019
+   },
+   "especies_que_pioraram_top1": {
+    "amburana_cearensis": {
+     "antes": 32,
+     "depois": 30,
+     "n": 53
+    },
+    "anadenanthera_colubrina": {
+     "antes": 65,
+     "depois": 64,
+     "n": 100
+    },
+    "ceiba_glaziovii": {
+     "antes": 29,
+     "depois": 28,
+     "n": 29
+    },
+    "copaifera_langsdorffii": {
+     "antes": 16,
+     "depois": 15,
+     "n": 30
+    },
+    "erythrina_mulungu": {
+     "antes": 24,
+     "depois": 22,
+     "n": 30
+    },
+    "pityrocarpa_moniliformis": {
+     "antes": 24,
+     "depois": 23,
+     "n": 30
+    },
+    "spondias_mombin": {
+     "antes": 27,
+     "depois": 25,
+     "n": 30
+    }
+   },
+   "fotos_que_viraram_erradas": [
+    {
+     "foto": "amburana_cearensis/257306429_461551710.jpg",
+     "especie": "amburana_cearensis",
+     "antes": "amburana_cearensis",
+     "depois": "astronium_urundeuva"
+    },
+    {
+     "foto": "amburana_cearensis/74742745_122203252.jpg",
+     "especie": "amburana_cearensis",
+     "antes": "amburana_cearensis",
+     "depois": "commiphora_leptophloeos"
+    },
+    {
+     "foto": "anadenanthera_colubrina/231175305_410554266.jpg",
+     "especie": "anadenanthera_colubrina",
+     "antes": "anadenanthera_colubrina",
+     "depois": "erythrina_velutina"
+    },
+    {
+     "foto": "erythrina_velutina/348367279_635172928.jpg",
+     "especie": "erythrina_velutina",
+     "antes": "erythrina_velutina",
+     "depois": "commiphora_leptophloeos"
+    },
+    {
+     "foto": "erythrina_mulungu/307970122_555566987.jpg",
+     "especie": "erythrina_mulungu",
+     "antes": "erythrina_mulungu",
+     "depois": "erythrina_velutina"
+    },
+    {
+     "foto": "erythrina_mulungu/321705439_581835901.jpg",
+     "especie": "erythrina_mulungu",
+     "antes": "erythrina_mulungu",
+     "depois": "astronium_urundeuva"
+    },
+    {
+     "foto": "spondias_mombin/380148796_695448529.jpg",
+     "especie": "spondias_mombin",
+     "antes": "spondias_mombin",
+     "depois": "astronium_urundeuva"
+    },
+    {
+     "foto": "spondias_mombin/366756958_669708327.jpg",
+     "especie": "spondias_mombin",
+     "antes": "spondias_mombin",
+     "depois": "spondias_purpurea"
+    },
+    {
+     "foto": "ceiba_glaziovii/370182373_676250663.jpg",
+     "especie": "ceiba_glaziovii",
+     "antes": "ceiba_glaziovii",
+     "depois": "erythrina_velutina"
+    },
+    {
+     "foto": "pityrocarpa_moniliformis/236702388_421143289.jpg",
+     "especie": "pityrocarpa_moniliformis",
+     "antes": "pityrocarpa_moniliformis",
+     "depois": "mimosa_tenuiflora"
+    },
+    {
+     "foto": "copaifera_langsdorffii/355529247_648375124.jpg",
+     "especie": "copaifera_langsdorffii",
+     "antes": "copaifera_langsdorffii",
+     "depois": "astronium_urundeuva"
+    }
+   ]
+  }
+ }
+}

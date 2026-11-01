@@ -1,0 +1,1444 @@
+{
+ "rotulo": "Subamostra NOVA (observações não usadas antes), só aroeira-do-sertão, mulungu e umburana-de-cambão",
+ "n": 117,
+ "descartadas_por_copia": 0,
+ "indices": {
+  "publicado": {
+   "todas": {
+    "n": 117,
+    "top1": {
+     "k": 60,
+     "n": 117,
+     "p": 0.5128,
+     "ic95": [
+      0.4233,
+      0.6015
+     ]
+    },
+    "top3": {
+     "k": 86,
+     "n": 117,
+     "p": 0.735,
+     "ic95": [
+      0.6485,
+      0.8066
+     ]
+    }
+   },
+   "observador_novo": {
+    "n": 47,
+    "top1": {
+     "k": 24,
+     "n": 47,
+     "p": 0.5106,
+     "ic95": [
+      0.3724,
+      0.6472
+     ]
+    },
+    "top3": {
+     "k": 36,
+     "n": 47,
+     "p": 0.766,
+     "ic95": [
+      0.6278,
+      0.864
+     ]
+    }
+   },
+   "criadas_desde_2025_12": {
+    "n": 12,
+    "top1": {
+     "k": 5,
+     "n": 12,
+     "p": 0.4167,
+     "ic95": [
+      0.1933,
+      0.6805
+     ]
+    },
+    "top3": {
+     "k": 9,
+     "n": 12,
+     "p": 0.75,
+     "ic95": [
+      0.4677,
+      0.9111
+     ]
+    }
+   },
+   "por_especie": {
+    "astronium_urundeuva": {
+     "n": 20,
+     "top1": {
+      "k": 6,
+      "n": 20,
+      "p": 0.3,
+      "ic95": [
+       0.1455,
+       0.519
+      ]
+     },
+     "top3": {
+      "k": 9,
+      "n": 20,
+      "p": 0.45,
+      "ic95": [
+       0.2582,
+       0.6579
+      ]
+     }
+    },
+    "erythrina_velutina": {
+     "n": 68,
+     "top1": {
+      "k": 34,
+      "n": 68,
+      "p": 0.5,
+      "ic95": [
+       0.3844,
+       0.6156
+      ]
+     },
+     "top3": {
+      "k": 49,
+      "n": 68,
+      "p": 0.7206,
+      "ic95": [
+       0.6044,
+       0.8132
+      ]
+     }
+    },
+    "commiphora_leptophloeos": {
+     "n": 29,
+     "top1": {
+      "k": 20,
+      "n": 29,
+      "p": 0.6897,
+      "ic95": [
+       0.5077,
+       0.8272
+      ]
+     },
+     "top3": {
+      "k": 28,
+      "n": 29,
+      "p": 0.9655,
+      "ic95": [
+       0.8282,
+       0.9939
+      ]
+     }
+    }
+   }
+  },
+  "v1.0.1": {
+   "todas": {
+    "n": 117,
+    "top1": {
+     "k": 86,
+     "n": 117,
+     "p": 0.735,
+     "ic95": [
+      0.6485,
+      0.8066
+     ]
+    },
+    "top3": {
+     "k": 101,
+     "n": 117,
+     "p": 0.8632,
+     "ic95": [
+      0.7894,
+      0.914
+     ]
+    }
+   },
+   "observador_novo": {
+    "n": 47,
+    "top1": {
+     "k": 36,
+     "n": 47,
+     "p": 0.766,
+     "ic95": [
+      0.6278,
+      0.864
+     ]
+    },
+    "top3": {
+     "k": 40,
+     "n": 47,
+     "p": 0.8511,
+     "ic95": [
+      0.7231,
+      0.9259
+     ]
+    }
+   },
+   "criadas_desde_2025_12": {
+    "n": 12,
+    "top1": {
+     "k": 7,
+     "n": 12,
+     "p": 0.5833,
+     "ic95": [
+      0.3195,
+      0.8067
+     ]
+    },
+    "top3": {
+     "k": 10,
+     "n": 12,
+     "p": 0.8333,
+     "ic95": [
+      0.552,
+      0.953
+     ]
+    }
+   },
+   "por_especie": {
+    "astronium_urundeuva": {
+     "n": 20,
+     "top1": {
+      "k": 17,
+      "n": 20,
+      "p": 0.85,
+      "ic95": [
+       0.6396,
+       0.9476
+      ]
+     },
+     "top3": {
+      "k": 18,
+      "n": 20,
+      "p": 0.9,
+      "ic95": [
+       0.699,
+       0.9721
+      ]
+     }
+    },
+    "erythrina_velutina": {
+     "n": 68,
+     "top1": {
+      "k": 48,
+      "n": 68,
+      "p": 0.7059,
+      "ic95": [
+       0.5889,
+       0.8008
+      ]
+     },
+     "top3": {
+      "k": 55,
+      "n": 68,
+      "p": 0.8088,
+      "ic95": [
+       0.6999,
+       0.8847
+      ]
+     }
+    },
+    "commiphora_leptophloeos": {
+     "n": 29,
+     "top1": {
+      "k": 21,
+      "n": 29,
+      "p": 0.7241,
+      "ic95": [
+       0.5428,
+       0.853
+      ]
+     },
+     "top3": {
+      "k": 28,
+      "n": 29,
+      "p": 0.9655,
+      "ic95": [
+       0.8282,
+       0.9939
+      ]
+     }
+    }
+   }
+  }
+ },
+ "pareado": {
+  "erradas_que_viraram_certas": 26,
+  "certas_que_viraram_erradas": 0,
+  "mcnemar_p": "< 0,0001 (2 × 0,5^26 ≈ 3e-8)"
+ },
+ "fotos": [
+  {
+   "obs": 388281891,
+   "foto": 710623699,
+   "especie": "astronium_urundeuva",
+   "grau": "research",
+   "observador_no_teste": true,
+   "criada_em": "2026-08-04",
+   "licenca": "cc-by-nc",
+   "credito": "(c) Homo paraguayensis, some rights reserved (CC BY-NC)"
+  },
+  {
+   "obs": 320776801,
+   "foto": 579994247,
+   "especie": "astronium_urundeuva",
+   "grau": "research",
+   "observador_no_teste": true,
+   "criada_em": "2025-10-13",
+   "licenca": "cc-by-nc",
+   "credito": "(c) Marisel Morales, some rights reserved (CC BY-NC)"
+  },
+  {
+   "obs": 279528447,
+   "foto": 501959382,
+   "especie": "astronium_urundeuva",
+   "grau": "research",
+   "observador_no_teste": true,
+   "criada_em": "2025-05-08",
+   "licenca": "cc-by-nc",
+   "credito": "(c) Vanessa Coelho Almeida, some rights reserved (CC BY-NC)"
+  },
+  {
+   "obs": 251314857,
+   "foto": 449653384,
+   "especie": "astronium_urundeuva",
+   "grau": "research",
+   "observador_no_teste": true,
+   "criada_em": "2024-11-11",
+   "licenca": null,
+   "credito": "(c) gabriel câmara, all rights reserved"
+  },
+  {
+   "obs": 250294128,
+   "foto": 447607583,
+   "especie": "astronium_urundeuva",
+   "grau": "research",
+   "observador_no_teste": true,
+   "criada_em": "2024-11-03",
+   "licenca": "cc-by-nc",
+   "credito": "(c) Lucas Leuzinger, some rights reserved (CC BY-NC)"
+  },
+  {
+   "obs": 248771481,
+   "foto": 444556889,
+   "especie": "astronium_urundeuva",
+   "grau": "research",
+   "observador_no_teste": true,
+   "criada_em": "2024-10-23",
+   "licenca": "cc0",
+   "credito": "no rights reserved"
+  },
+  {
+   "obs": 247376623,
+   "foto": 441805964,
+   "especie": "astronium_urundeuva",
+   "grau": "research",
+   "observador_no_teste": true,
+   "criada_em": "2024-10-14",
+   "licenca": null,
+   "credito": "(c) João vitor, all rights reserved"
+  },
+  {
+   "obs": 237755750,
+   "foto": 423175448,
+   "especie": "astronium_urundeuva",
+   "grau": "research",
+   "observador_no_teste": true,
+   "criada_em": "2024-08-24",
+   "licenca": "cc-by-nc-sa",
+   "credito": "(c) José Vinícius de Medeiros, some rights reserved (CC BY-NC-SA)"
+  },
+  {
+   "obs": 236556474,
+   "foto": 420860012,
+   "especie": "astronium_urundeuva",
+   "grau": "research",
+   "observador_no_teste": true,
+   "criada_em": "2024-08-18",
+   "licenca": "cc-by-nc",
+   "credito": "(c) Lucas Lima (Lima, L.M.), some rights reserved (CC BY-NC)"
+  },
+  {
+   "obs": 235205510,
+   "foto": 418257521,
+   "especie": "astronium_urundeuva",
+   "grau": "research",
+   "observador_no_teste": true,
+   "criada_em": "2024-08-11",
+   "licenca": null,
+   "credito": "(c) Pedro Zani, all rights reserved"
+  },
+  {
+   "obs": 230636797,
+   "foto": 409540401,
+   "especie": "astronium_urundeuva",
+   "grau": "research",
+   "observador_no_teste": true,
+   "criada_em": "2024-07-20",
+   "licenca": "cc-by",
+   "credito": "(c) Thomaz Ricardo Favreto Sinani, some rights reserved (CC BY)"
+  },
+  {
+   "obs": 205863859,
+   "foto": 364052281,
+   "especie": "astronium_urundeuva",
+   "grau": "needs_id",
+   "observador_no_teste": false,
+   "criada_em": "2024-04-07",
+   "licenca": "cc-by-nc",
+   "credito": "(c) leonardo_wander, some rights reserved (CC BY-NC)"
+  },
+  {
+   "obs": 201406969,
+   "foto": 355528563,
+   "especie": "astronium_urundeuva",
+   "grau": "research",
+   "observador_no_teste": true,
+   "criada_em": "2024-03-05",
+   "licenca": "cc-by-nc",
+   "credito": "(c) Taiel Nazar, some rights reserved (CC BY-NC)"
+  },
+  {
+   "obs": 178996548,
+   "foto": 311543209,
+   "especie": "astronium_urundeuva",
+   "grau": "research",
+   "observador_no_teste": true,
+   "criada_em": "2023-08-18",
+   "licenca": "cc-by-nc",
+   "credito": "(c) Célio Moura Neto, some rights reserved (CC BY-NC)"
+  },
+  {
+   "obs": 169810310,
+   "foto": 297396187,
+   "especie": "astronium_urundeuva",
+   "grau": "research",
+   "observador_no_teste": true,
+   "criada_em": "2023-06-27",
+   "licenca": null,
+   "credito": "(c) Paulo Maier, all rights reserved"
+  },
+  {
+   "obs": 118724434,
+   "foto": 200625796,
+   "especie": "astronium_urundeuva",
+   "grau": "research",
+   "observador_no_teste": true,
+   "criada_em": "2022-05-25",
+   "licenca": "cc-by-nc",
+   "credito": "(c) alexandre callou sampaio, some rights reserved (CC BY-NC)"
+  },
+  {
+   "obs": 116605588,
+   "foto": 196844194,
+   "especie": "astronium_urundeuva",
+   "grau": "research",
+   "observador_no_teste": true,
+   "criada_em": "2022-05-11",
+   "licenca": "cc-by-nc-nd",
+   "credito": "(c) Víctor de Paiva, some rights reserved (CC BY-NC-ND)"
+  },
+  {
+   "obs": 105797240,
+   "foto": 177595273,
+   "especie": "astronium_urundeuva",
+   "grau": "research",
+   "observador_no_teste": true,
+   "criada_em": "2022-01-29",
+   "licenca": "cc-by-nc",
+   "credito": "(c) Mateus Freijo, some rights reserved (CC BY-NC)"
+  },
+  {
+   "obs": 102168955,
+   "foto": 170736687,
+   "especie": "astronium_urundeuva",
+   "grau": "research",
+   "observador_no_teste": true,
+   "criada_em": "2021-11-29",
+   "licenca": null,
+   "credito": "(c) Natan Freitas, all rights reserved"
+  },
+  {
+   "obs": 24468132,
+   "foto": 37826978,
+   "especie": "astronium_urundeuva",
+   "grau": "research",
+   "observador_no_teste": true,
+   "criada_em": "2019-05-03",
+   "licenca": null,
+   "credito": "(c) Freddy Santiago Zenteno Ruiz, all rights reserved"
+  },
+  {
+   "obs": 397797034,
+   "foto": 729641766,
+   "especie": "erythrina_velutina",
+   "grau": "research",
+   "observador_no_teste": true,
+   "criada_em": "2026-09-06",
+   "licenca": "cc-by-nc",
+   "credito": "(c) Steve Maldonado Silvestrini, some rights reserved (CC BY-NC)"
+  },
+  {
+   "obs": 368753902,
+   "foto": 673535086,
+   "especie": "erythrina_velutina",
+   "grau": "research",
+   "observador_no_teste": true,
+   "criada_em": "2026-06-05",
+   "licenca": null,
+   "credito": "(c) Matheus Cavalcante, all rights reserved"
+  },
+  {
+   "obs": 354871774,
+   "foto": 647322391,
+   "especie": "erythrina_velutina",
+   "grau": "research",
+   "observador_no_teste": true,
+   "criada_em": "2026-04-26",
+   "licenca": "cc-by-nc",
+   "credito": "(c) hvds, some rights reserved (CC BY-NC)"
+  },
+  {
+   "obs": 348083152,
+   "foto": 634771294,
+   "especie": "erythrina_velutina",
+   "grau": "research",
+   "observador_no_teste": true,
+   "criada_em": "2026-04-07",
+   "licenca": null,
+   "credito": "(c) Matt Boyle, all rights reserved"
+  },
+  {
+   "obs": 347604591,
+   "foto": 633770213,
+   "especie": "erythrina_velutina",
+   "grau": "research",
+   "observador_no_teste": true,
+   "criada_em": "2026-04-05",
+   "licenca": "cc-by-nc-sa",
+   "credito": "(c) José Vinícius de Medeiros, some rights reserved (CC BY-NC-SA)"
+  },
+  {
+   "obs": 341258765,
+   "foto": 621198301,
+   "especie": "erythrina_velutina",
+   "grau": "research",
+   "observador_no_teste": false,
+   "criada_em": "2026-03-04",
+   "licenca": null,
+   "credito": "(c) Silvia Linhares, all rights reserved"
+  },
+  {
+   "obs": 317891719,
+   "foto": 574472182,
+   "especie": "erythrina_velutina",
+   "grau": "research",
+   "observador_no_teste": true,
+   "criada_em": "2025-09-30",
+   "licenca": "cc-by",
+   "credito": "(c) Anilton Junior, some rights reserved (CC BY)"
+  },
+  {
+   "obs": 305187002,
+   "foto": 550237193,
+   "especie": "erythrina_velutina",
+   "grau": "research",
+   "observador_no_teste": true,
+   "criada_em": "2025-08-10",
+   "licenca": null,
+   "credito": "(c) João vitor, all rights reserved"
+  },
+  {
+   "obs": 297443658,
+   "foto": 535678148,
+   "especie": "erythrina_velutina",
+   "grau": "research",
+   "observador_no_teste": true,
+   "criada_em": "2025-07-12",
+   "licenca": "cc-by-sa",
+   "credito": "(c) Carlos Henrique, some rights reserved (CC BY-SA)"
+  },
+  {
+   "obs": 285736780,
+   "foto": 513606337,
+   "especie": "erythrina_velutina",
+   "grau": "research",
+   "observador_no_teste": true,
+   "criada_em": "2025-05-31",
+   "licenca": "cc-by-sa",
+   "credito": "(c) cristianol1456, some rights reserved (CC BY-SA)"
+  },
+  {
+   "obs": 275017634,
+   "foto": 494257744,
+   "especie": "erythrina_velutina",
+   "grau": "research",
+   "observador_no_teste": true,
+   "criada_em": "2025-04-27",
+   "licenca": "cc-by-nc",
+   "credito": "(c) riancarlos, some rights reserved (CC BY-NC)"
+  },
+  {
+   "obs": 262409225,
+   "foto": 471412453,
+   "especie": "erythrina_velutina",
+   "grau": "research",
+   "observador_no_teste": true,
+   "criada_em": "2025-02-20",
+   "licenca": "cc-by-nc",
+   "credito": "(c) miguel_macedo, some rights reserved (CC BY-NC)"
+  },
+  {
+   "obs": 255287218,
+   "foto": 457470446,
+   "especie": "erythrina_velutina",
+   "grau": "research",
+   "observador_no_teste": false,
+   "criada_em": "2024-12-16",
+   "licenca": null,
+   "credito": "(c) André Reis, all rights reserved"
+  },
+  {
+   "obs": 255140058,
+   "foto": 457163576,
+   "especie": "erythrina_velutina",
+   "grau": "research",
+   "observador_no_teste": false,
+   "criada_em": "2024-12-15",
+   "licenca": "cc-by-nc-nd",
+   "credito": "(c) Víctor de Paiva, some rights reserved (CC BY-NC-ND)"
+  },
+  {
+   "obs": 252191407,
+   "foto": 451612553,
+   "especie": "erythrina_velutina",
+   "grau": "research",
+   "observador_no_teste": false,
+   "criada_em": "2024-11-18",
+   "licenca": null,
+   "credito": "(c) @oficial_ednardomartins, all rights reserved"
+  },
+  {
+   "obs": 250305559,
+   "foto": 447630718,
+   "especie": "erythrina_velutina",
+   "grau": "research",
+   "observador_no_teste": false,
+   "criada_em": "2024-11-03",
+   "licenca": null,
+   "credito": "(c) Alenilson, all rights reserved"
+  },
+  {
+   "obs": 249436546,
+   "foto": 445890380,
+   "especie": "erythrina_velutina",
+   "grau": "research",
+   "observador_no_teste": true,
+   "criada_em": "2024-10-27",
+   "licenca": "cc-by",
+   "credito": "(c) Carlos Eduardo Santos Feitosa, some rights reserved (CC BY)"
+  },
+  {
+   "obs": 248932114,
+   "foto": 444890359,
+   "especie": "erythrina_velutina",
+   "grau": "research",
+   "observador_no_teste": true,
+   "criada_em": "2024-10-24",
+   "licenca": "cc-by",
+   "credito": "(c) Pedro Alvaro Neves, some rights reserved (CC BY)"
+  },
+  {
+   "obs": 246358632,
+   "foto": 439789627,
+   "especie": "erythrina_velutina",
+   "grau": "research",
+   "observador_no_teste": false,
+   "criada_em": "2024-10-08",
+   "licenca": null,
+   "credito": "(c) Andrés Espinoza, all rights reserved"
+  },
+  {
+   "obs": 235435988,
+   "foto": 418708346,
+   "especie": "erythrina_velutina",
+   "grau": "research",
+   "observador_no_teste": true,
+   "criada_em": "2024-08-12",
+   "licenca": "cc-by",
+   "credito": "(c) Thomaz de Carvalho Callado, some rights reserved (CC BY)"
+  },
+  {
+   "obs": 228216668,
+   "foto": 404956735,
+   "especie": "erythrina_velutina",
+   "grau": "research",
+   "observador_no_teste": false,
+   "criada_em": "2024-07-09",
+   "licenca": null,
+   "credito": "(c) André Benedito, all rights reserved"
+  },
+  {
+   "obs": 226916541,
+   "foto": 402487939,
+   "especie": "erythrina_velutina",
+   "grau": "research",
+   "observador_no_teste": true,
+   "criada_em": "2024-07-03",
+   "licenca": "cc-by-nc",
+   "credito": "(c) pedrosantoss, some rights reserved (CC BY-NC)"
+  },
+  {
+   "obs": 224875890,
+   "foto": 398619980,
+   "especie": "erythrina_velutina",
+   "grau": "research",
+   "observador_no_teste": true,
+   "criada_em": "2024-06-24",
+   "licenca": "cc-by-nc",
+   "credito": "(c) Yetsin Vinces Rosillo, some rights reserved (CC BY-NC)"
+  },
+  {
+   "obs": 208498918,
+   "foto": 368906248,
+   "especie": "erythrina_velutina",
+   "grau": "research",
+   "observador_no_teste": false,
+   "criada_em": "2024-04-21",
+   "licenca": null,
+   "credito": "(c) Maurício Frizziero Ribeiro, all rights reserved"
+  },
+  {
+   "obs": 206610723,
+   "foto": 365369823,
+   "especie": "erythrina_velutina",
+   "grau": "research",
+   "observador_no_teste": false,
+   "criada_em": "2024-04-11",
+   "licenca": null,
+   "credito": "(c) Joan Davis, all rights reserved"
+  },
+  {
+   "obs": 205310579,
+   "foto": 363012442,
+   "especie": "erythrina_velutina",
+   "grau": "research",
+   "observador_no_teste": false,
+   "criada_em": "2024-04-03",
+   "licenca": null,
+   "credito": "(c) Natan de Freitas, all rights reserved"
+  },
+  {
+   "obs": 202404515,
+   "foto": 357464964,
+   "especie": "erythrina_velutina",
+   "grau": "research",
+   "observador_no_teste": false,
+   "criada_em": "2024-03-14",
+   "licenca": null,
+   "credito": "(c) Glauber Souto, all rights reserved"
+  },
+  {
+   "obs": 194199972,
+   "foto": 341296916,
+   "especie": "erythrina_velutina",
+   "grau": "research",
+   "observador_no_teste": true,
+   "criada_em": "2023-12-17",
+   "licenca": "cc-by-nc",
+   "credito": "(c) akarena, some rights reserved (CC BY-NC)"
+  },
+  {
+   "obs": 193096104,
+   "foto": 339141304,
+   "especie": "erythrina_velutina",
+   "grau": "research",
+   "observador_no_teste": true,
+   "criada_em": "2023-12-05",
+   "licenca": "cc-by-nc",
+   "credito": "(c) João Abraão, some rights reserved (CC BY-NC)"
+  },
+  {
+   "obs": 180470627,
+   "foto": 314369819,
+   "especie": "erythrina_velutina",
+   "grau": "research",
+   "observador_no_teste": false,
+   "criada_em": "2023-08-27",
+   "licenca": null,
+   "credito": "(c) franciel gomes firino, all rights reserved"
+  },
+  {
+   "obs": 174287537,
+   "foto": 302768239,
+   "especie": "erythrina_velutina",
+   "grau": "research",
+   "observador_no_teste": false,
+   "criada_em": "2023-07-22",
+   "licenca": null,
+   "credito": "(c) Thiago Zanetti, all rights reserved"
+  },
+  {
+   "obs": 159024468,
+   "foto": 274750362,
+   "especie": "erythrina_velutina",
+   "grau": "research",
+   "observador_no_teste": false,
+   "criada_em": "2023-05-01",
+   "licenca": null,
+   "credito": "(c) Gabriela Jaramillo, all rights reserved"
+  },
+  {
+   "obs": 152227251,
+   "foto": 262763256,
+   "especie": "erythrina_velutina",
+   "grau": "research",
+   "observador_no_teste": false,
+   "criada_em": "2023-03-25",
+   "licenca": null,
+   "credito": "(c) Efrain Freire, all rights reserved"
+  },
+  {
+   "obs": 150172971,
+   "foto": 258891365,
+   "especie": "erythrina_velutina",
+   "grau": "research",
+   "observador_no_teste": false,
+   "criada_em": "2023-03-03",
+   "licenca": null,
+   "credito": "(c) Cássio Silva, all rights reserved"
+  },
+  {
+   "obs": 147495700,
+   "foto": 253812223,
+   "especie": "erythrina_velutina",
+   "grau": "research",
+   "observador_no_teste": false,
+   "criada_em": "2023-01-27",
+   "licenca": null,
+   "credito": "(c) gabriel câmara, all rights reserved"
+  },
+  {
+   "obs": 147431110,
+   "foto": 253690967,
+   "especie": "erythrina_velutina",
+   "grau": "research",
+   "observador_no_teste": false,
+   "criada_em": "2023-01-26",
+   "licenca": null,
+   "credito": "(c) Ol Whaley, all rights reserved"
+  },
+  {
+   "obs": 134121775,
+   "foto": 228564912,
+   "especie": "erythrina_velutina",
+   "grau": "research",
+   "observador_no_teste": false,
+   "criada_em": "2022-09-07",
+   "licenca": null,
+   "credito": "(c) Evelyn Mishel Moran Yangua, all rights reserved"
+  },
+  {
+   "obs": 133354768,
+   "foto": 227135394,
+   "especie": "erythrina_velutina",
+   "grau": "research",
+   "observador_no_teste": false,
+   "criada_em": "2022-09-02",
+   "licenca": null,
+   "credito": "(c) Andres Castro Palmer, all rights reserved"
+  },
+  {
+   "obs": 133003241,
+   "foto": 226484079,
+   "especie": "erythrina_velutina",
+   "grau": "research",
+   "observador_no_teste": true,
+   "criada_em": "2022-08-30",
+   "licenca": "cc-by-nc",
+   "credito": "(c) Elyonel Fernandes, some rights reserved (CC BY-NC)"
+  },
+  {
+   "obs": 116309310,
+   "foto": 196318928,
+   "especie": "erythrina_velutina",
+   "grau": "research",
+   "observador_no_teste": true,
+   "criada_em": "2022-05-09",
+   "licenca": "cc-by-sa",
+   "credito": "(c) vitordematos12, some rights reserved (CC BY-SA)"
+  },
+  {
+   "obs": 111586466,
+   "foto": 188388122,
+   "especie": "erythrina_velutina",
+   "grau": "research",
+   "observador_no_teste": false,
+   "criada_em": "2022-04-15",
+   "licenca": null,
+   "credito": "(c) Larisse Pereira, all rights reserved"
+  },
+  {
+   "obs": 106342704,
+   "foto": 178623840,
+   "especie": "erythrina_velutina",
+   "grau": "research",
+   "observador_no_teste": false,
+   "criada_em": "2022-02-07",
+   "licenca": null,
+   "credito": "(c) Valeria Nicole Romero Torres, all rights reserved"
+  },
+  {
+   "obs": 100990775,
+   "foto": 168613448,
+   "especie": "erythrina_velutina",
+   "grau": "research",
+   "observador_no_teste": false,
+   "criada_em": "2021-11-13",
+   "licenca": null,
+   "credito": "(c) Scott Camazine, all rights reserved"
+  },
+  {
+   "obs": 99736406,
+   "foto": 166327039,
+   "especie": "erythrina_velutina",
+   "grau": "research",
+   "observador_no_teste": true,
+   "criada_em": "2021-10-29",
+   "licenca": "cc-by",
+   "credito": "(c) João D'Andretta, some rights reserved (CC BY)"
+  },
+  {
+   "obs": 99212254,
+   "foto": 165340222,
+   "especie": "erythrina_velutina",
+   "grau": "research",
+   "observador_no_teste": false,
+   "criada_em": "2021-10-24",
+   "licenca": null,
+   "credito": "(c) Omar Aguilar, all rights reserved"
+  },
+  {
+   "obs": 99209606,
+   "foto": 165335283,
+   "especie": "erythrina_velutina",
+   "grau": "research",
+   "observador_no_teste": false,
+   "criada_em": "2021-10-24",
+   "licenca": null,
+   "credito": "(c) Pabs Arech, all rights reserved"
+  },
+  {
+   "obs": 97969031,
+   "foto": 162987293,
+   "especie": "erythrina_velutina",
+   "grau": "research",
+   "observador_no_teste": false,
+   "criada_em": "2021-10-11",
+   "licenca": "cc-by-nc",
+   "credito": "(c) Célio Moura Neto, some rights reserved (CC BY-NC)"
+  },
+  {
+   "obs": 97521241,
+   "foto": 162203190,
+   "especie": "erythrina_velutina",
+   "grau": "research",
+   "observador_no_teste": false,
+   "criada_em": "2021-10-08",
+   "licenca": null,
+   "credito": "(c) Fabiula Fecchio, all rights reserved"
+  },
+  {
+   "obs": 95612200,
+   "foto": 158749006,
+   "especie": "erythrina_velutina",
+   "grau": "research",
+   "observador_no_teste": false,
+   "criada_em": "2021-09-20",
+   "licenca": "cc-by-nc",
+   "credito": "(c) Marcio Santos Ferreira, some rights reserved (CC BY-NC)"
+  },
+  {
+   "obs": 95081912,
+   "foto": 157805425,
+   "especie": "erythrina_velutina",
+   "grau": "research",
+   "observador_no_teste": false,
+   "criada_em": "2021-09-16",
+   "licenca": null,
+   "credito": "(c) JUAN ROMERO, all rights reserved"
+  },
+  {
+   "obs": 92527998,
+   "foto": 153217508,
+   "especie": "erythrina_velutina",
+   "grau": "research",
+   "observador_no_teste": false,
+   "criada_em": "2021-08-25",
+   "licenca": "cc-by-nc",
+   "credito": "(c) Breno Farias, some rights reserved (CC BY-NC)"
+  },
+  {
+   "obs": 88197191,
+   "foto": 145492706,
+   "especie": "erythrina_velutina",
+   "grau": "research",
+   "observador_no_teste": false,
+   "criada_em": "2021-07-22",
+   "licenca": null,
+   "credito": "(c) Elvira Fernandes, all rights reserved"
+  },
+  {
+   "obs": 83683500,
+   "foto": 137446545,
+   "especie": "erythrina_velutina",
+   "grau": "research",
+   "observador_no_teste": false,
+   "criada_em": "2021-06-19",
+   "licenca": "cc-by-nc",
+   "credito": "(c) Lucas C. Marinho, some rights reserved (CC BY-NC)"
+  },
+  {
+   "obs": 79311946,
+   "foto": 129895865,
+   "especie": "erythrina_velutina",
+   "grau": "research",
+   "observador_no_teste": false,
+   "criada_em": "2021-05-18",
+   "licenca": "cc-by-nc",
+   "credito": "(c) M. A. Lagares, some rights reserved (CC BY-NC)"
+  },
+  {
+   "obs": 71357016,
+   "foto": 116167666,
+   "especie": "erythrina_velutina",
+   "grau": "research",
+   "observador_no_teste": false,
+   "criada_em": "2021-03-16",
+   "licenca": null,
+   "credito": "(c) manoel augusto, all rights reserved"
+  },
+  {
+   "obs": 67642882,
+   "foto": 109339022,
+   "especie": "erythrina_velutina",
+   "grau": "research",
+   "observador_no_teste": false,
+   "criada_em": "2021-01-05",
+   "licenca": null,
+   "credito": "(c) Max Nunes de França, all rights reserved"
+  },
+  {
+   "obs": 65556343,
+   "foto": 105535165,
+   "especie": "erythrina_velutina",
+   "grau": "research",
+   "observador_no_teste": false,
+   "criada_em": "2020-11-24",
+   "licenca": null,
+   "credito": "(c) Nicolas Evaldo Ratis, all rights reserved"
+  },
+  {
+   "obs": 63865009,
+   "foto": 102572803,
+   "especie": "erythrina_velutina",
+   "grau": "research",
+   "observador_no_teste": false,
+   "criada_em": "2020-10-31",
+   "licenca": null,
+   "credito": "(c) Amarú Ramón Salcedo, all rights reserved"
+  },
+  {
+   "obs": 61153586,
+   "foto": 97831096,
+   "especie": "erythrina_velutina",
+   "grau": "research",
+   "observador_no_teste": false,
+   "criada_em": "2020-09-28",
+   "licenca": null,
+   "credito": "(c) Freddy Gutierrez Morillo, all rights reserved"
+  },
+  {
+   "obs": 60567447,
+   "foto": 96859534,
+   "especie": "erythrina_velutina",
+   "grau": "research",
+   "observador_no_teste": false,
+   "criada_em": "2020-09-23",
+   "licenca": null,
+   "credito": "(c) Fernanda G. L. Moreira, all rights reserved"
+  },
+  {
+   "obs": 60223895,
+   "foto": 96277114,
+   "especie": "erythrina_velutina",
+   "grau": "research",
+   "observador_no_teste": false,
+   "criada_em": "2020-09-20",
+   "licenca": "cc-by-nc",
+   "credito": "(c) Emilia Cordova, some rights reserved (CC BY-NC)"
+  },
+  {
+   "obs": 59985332,
+   "foto": 95885639,
+   "especie": "erythrina_velutina",
+   "grau": "research",
+   "observador_no_teste": true,
+   "criada_em": "2020-09-18",
+   "licenca": "cc-by-nc",
+   "credito": "(c) Frederico Acaz Sonntag, some rights reserved (CC BY-NC)"
+  },
+  {
+   "obs": 58463097,
+   "foto": 93339870,
+   "especie": "erythrina_velutina",
+   "grau": "research",
+   "observador_no_teste": false,
+   "criada_em": "2020-09-03",
+   "licenca": "cc-by-nc",
+   "credito": "(c) Bianca Darski, some rights reserved (CC BY-NC)"
+  },
+  {
+   "obs": 55785313,
+   "foto": 88852881,
+   "especie": "erythrina_velutina",
+   "grau": "research",
+   "observador_no_teste": false,
+   "criada_em": "2020-08-08",
+   "licenca": "cc-by-nc",
+   "credito": "(c) Henrique_Anizio, some rights reserved (CC BY-NC)"
+  },
+  {
+   "obs": 46537548,
+   "foto": 73810900,
+   "especie": "erythrina_velutina",
+   "grau": "research",
+   "observador_no_teste": false,
+   "criada_em": "2020-05-19",
+   "licenca": null,
+   "credito": "(c) José Huesley Alves Araujo, all rights reserved"
+  },
+  {
+   "obs": 37063513,
+   "foto": 58694548,
+   "especie": "erythrina_velutina",
+   "grau": "research",
+   "observador_no_teste": false,
+   "criada_em": "2019-12-29",
+   "licenca": null,
+   "credito": "(c) Samuel Brinker, all rights reserved"
+  },
+  {
+   "obs": 36985829,
+   "foto": 58555912,
+   "especie": "erythrina_velutina",
+   "grau": "research",
+   "observador_no_teste": false,
+   "criada_em": "2019-12-26",
+   "licenca": null,
+   "credito": "(c) Caio Flat, all rights reserved"
+  },
+  {
+   "obs": 16686677,
+   "foto": 25168410,
+   "especie": "erythrina_velutina",
+   "grau": "research",
+   "observador_no_teste": false,
+   "criada_em": "2018-09-19",
+   "licenca": "cc-by-nc-sa",
+   "credito": "(c) Basílio Maciel, some rights reserved (CC BY-NC-SA)"
+  },
+  {
+   "obs": 363785324,
+   "foto": 664077823,
+   "especie": "commiphora_leptophloeos",
+   "grau": "research",
+   "observador_no_teste": true,
+   "criada_em": "2026-05-21",
+   "licenca": "cc-by-nc",
+   "credito": "(c) Robin Heymans, some rights reserved (CC BY-NC)"
+  },
+  {
+   "obs": 358792818,
+   "foto": 654565641,
+   "especie": "commiphora_leptophloeos",
+   "grau": "research",
+   "observador_no_teste": true,
+   "criada_em": "2026-05-05",
+   "licenca": "cc-by-nc",
+   "credito": "(c) Istelo Almeida, some rights reserved (CC BY-NC)"
+  },
+  {
+   "obs": 356147291,
+   "foto": 649440625,
+   "especie": "commiphora_leptophloeos",
+   "grau": "research",
+   "observador_no_teste": true,
+   "criada_em": "2026-04-28",
+   "licenca": "cc-by-nc-sa",
+   "credito": "(c) José Vinícius de Medeiros, some rights reserved (CC BY-NC-SA)"
+  },
+  {
+   "obs": 346435766,
+   "foto": 631498632,
+   "especie": "commiphora_leptophloeos",
+   "grau": "research",
+   "observador_no_teste": true,
+   "criada_em": "2026-03-31",
+   "licenca": "cc-by-nc",
+   "credito": "(c) VM Vitor, some rights reserved (CC BY-NC)"
+  },
+  {
+   "obs": 333206758,
+   "foto": 604882194,
+   "especie": "commiphora_leptophloeos",
+   "grau": "research",
+   "observador_no_teste": true,
+   "criada_em": "2026-01-02",
+   "licenca": "cc-by-sa",
+   "credito": "(c) cristianol1456, some rights reserved (CC BY-SA)"
+  },
+  {
+   "obs": 286315573,
+   "foto": 514710830,
+   "especie": "commiphora_leptophloeos",
+   "grau": "research",
+   "observador_no_teste": true,
+   "criada_em": "2025-06-02",
+   "licenca": null,
+   "credito": "(c) Natan de Freitas, all rights reserved"
+  },
+  {
+   "obs": 272416777,
+   "foto": 490105178,
+   "especie": "commiphora_leptophloeos",
+   "grau": "research",
+   "observador_no_teste": true,
+   "criada_em": "2025-04-23",
+   "licenca": null,
+   "credito": "(c) Ronaldo César, all rights reserved"
+  },
+  {
+   "obs": 270321307,
+   "foto": 486132819,
+   "especie": "commiphora_leptophloeos",
+   "grau": "research",
+   "observador_no_teste": true,
+   "criada_em": "2025-04-13",
+   "licenca": "cc-by-nc",
+   "credito": "(c) pedrosantoss, some rights reserved (CC BY-NC)"
+  },
+  {
+   "obs": 263203925,
+   "foto": 472800245,
+   "especie": "commiphora_leptophloeos",
+   "grau": "research",
+   "observador_no_teste": true,
+   "criada_em": "2025-02-26",
+   "licenca": "cc-by-nc",
+   "credito": "(c) leojales, some rights reserved (CC BY-NC)"
+  },
+  {
+   "obs": 258760909,
+   "foto": 464342126,
+   "especie": "commiphora_leptophloeos",
+   "grau": "research",
+   "observador_no_teste": true,
+   "criada_em": "2025-01-17",
+   "licenca": "cc-by-nc",
+   "credito": "(c) Frederico Acaz Sonntag, some rights reserved (CC BY-NC)"
+  },
+  {
+   "obs": 250345124,
+   "foto": 447710871,
+   "especie": "commiphora_leptophloeos",
+   "grau": "research",
+   "observador_no_teste": true,
+   "criada_em": "2024-11-03",
+   "licenca": "cc-by-nc",
+   "credito": "(c) Lucas Lima (Lima, L.M.), some rights reserved (CC BY-NC)"
+  },
+  {
+   "obs": 249235235,
+   "foto": 445488337,
+   "especie": "commiphora_leptophloeos",
+   "grau": "research",
+   "observador_no_teste": true,
+   "criada_em": "2024-10-26",
+   "licenca": null,
+   "credito": "(c) Vagner Rebouças 🌿, all rights reserved"
+  },
+  {
+   "obs": 203307877,
+   "foto": 359188036,
+   "especie": "commiphora_leptophloeos",
+   "grau": "research",
+   "observador_no_teste": true,
+   "criada_em": "2024-03-20",
+   "licenca": "cc-by-nc",
+   "credito": "(c) Geovane Siqueira, some rights reserved (CC BY-NC)"
+  },
+  {
+   "obs": 200179422,
+   "foto": 353128958,
+   "especie": "commiphora_leptophloeos",
+   "grau": "research",
+   "observador_no_teste": true,
+   "criada_em": "2024-02-23",
+   "licenca": null,
+   "credito": "(c) PEDRO ISRAEL PAIVA NAZARENO, all rights reserved"
+  },
+  {
+   "obs": 178884120,
+   "foto": 311316693,
+   "especie": "commiphora_leptophloeos",
+   "grau": "research",
+   "observador_no_teste": true,
+   "criada_em": "2023-08-17",
+   "licenca": "cc-by-nc",
+   "credito": "(c) Célio Moura Neto, some rights reserved (CC BY-NC)"
+  },
+  {
+   "obs": 175290744,
+   "foto": 304622343,
+   "especie": "commiphora_leptophloeos",
+   "grau": "research",
+   "observador_no_teste": true,
+   "criada_em": "2023-07-27",
+   "licenca": "cc-by-nc",
+   "credito": "(c) João Abraão, some rights reserved (CC BY-NC)"
+  },
+  {
+   "obs": 174087365,
+   "foto": 302400495,
+   "especie": "commiphora_leptophloeos",
+   "grau": "research",
+   "observador_no_teste": true,
+   "criada_em": "2023-07-21",
+   "licenca": "cc-by",
+   "credito": "(c) Breno Figueiredo, some rights reserved (CC BY)"
+  },
+  {
+   "obs": 159507400,
+   "foto": 275588472,
+   "especie": "commiphora_leptophloeos",
+   "grau": "research",
+   "observador_no_teste": true,
+   "criada_em": "2023-05-03",
+   "licenca": null,
+   "credito": "(c) Thiago Zanetti, all rights reserved"
+  },
+  {
+   "obs": 150579958,
+   "foto": 259679181,
+   "especie": "commiphora_leptophloeos",
+   "grau": "research",
+   "observador_no_teste": true,
+   "criada_em": "2023-03-08",
+   "licenca": "cc-by-nc-sa",
+   "credito": "(c) Átila Almeida, some rights reserved (CC BY-NC-SA)"
+  },
+  {
+   "obs": 135646420,
+   "foto": 231389855,
+   "especie": "commiphora_leptophloeos",
+   "grau": "research",
+   "observador_no_teste": true,
+   "criada_em": "2022-09-19",
+   "licenca": "cc-by-nc",
+   "credito": "(c) Guilherme A. Fischer, some rights reserved (CC BY-NC)"
+  },
+  {
+   "obs": 133017532,
+   "foto": 226511272,
+   "especie": "commiphora_leptophloeos",
+   "grau": "research",
+   "observador_no_teste": true,
+   "criada_em": "2022-08-30",
+   "licenca": "cc-by",
+   "credito": "(c) Carlos Otávio Gussoni, some rights reserved (CC BY)"
+  },
+  {
+   "obs": 111586349,
+   "foto": 188387860,
+   "especie": "commiphora_leptophloeos",
+   "grau": "research",
+   "observador_no_teste": true,
+   "criada_em": "2022-04-15",
+   "licenca": null,
+   "credito": "(c) Larisse Pereira, all rights reserved"
+  },
+  {
+   "obs": 107891667,
+   "foto": 181547764,
+   "especie": "commiphora_leptophloeos",
+   "grau": "research",
+   "observador_no_teste": true,
+   "criada_em": "2022-03-04",
+   "licenca": "cc-by-nc",
+   "credito": "(c) Mateus Freijo, some rights reserved (CC BY-NC)"
+  },
+  {
+   "obs": 105960688,
+   "foto": 177908605,
+   "especie": "commiphora_leptophloeos",
+   "grau": "research",
+   "observador_no_teste": true,
+   "criada_em": "2022-02-01",
+   "licenca": "cc-by-nc",
+   "credito": "(c) Leonardo Oliveira, some rights reserved (CC BY-NC)"
+  },
+  {
+   "obs": 105665362,
+   "foto": 177336971,
+   "especie": "commiphora_leptophloeos",
+   "grau": "research",
+   "observador_no_teste": true,
+   "criada_em": "2022-01-27",
+   "licenca": "cc-by-nc-nd",
+   "credito": "(c) Víctor de Paiva, some rights reserved (CC BY-NC-ND)"
+  },
+  {
+   "obs": 105162596,
+   "foto": 176384859,
+   "especie": "commiphora_leptophloeos",
+   "grau": "research",
+   "observador_no_teste": true,
+   "criada_em": "2022-01-18",
+   "licenca": "cc-by-nc",
+   "credito": "(c) Elyonel Fernandes, some rights reserved (CC BY-NC)"
+  },
+  {
+   "obs": 102487372,
+   "foto": 171332540,
+   "especie": "commiphora_leptophloeos",
+   "grau": "research",
+   "observador_no_teste": true,
+   "criada_em": "2021-12-04",
+   "licenca": null,
+   "credito": "(c) Kairo Michel, all rights reserved"
+  },
+  {
+   "obs": 85718628,
+   "foto": 141084473,
+   "especie": "commiphora_leptophloeos",
+   "grau": "research",
+   "observador_no_teste": true,
+   "criada_em": "2021-07-05",
+   "licenca": null,
+   "credito": "(c) Carlos Eduardo Carvalho, all rights reserved"
+  },
+  {
+   "obs": 37369627,
+   "foto": 59230133,
+   "especie": "commiphora_leptophloeos",
+   "grau": "research",
+   "observador_no_teste": true,
+   "criada_em": "2020-01-07",
+   "licenca": "cc-by-nc",
+   "credito": "(c) Marcondes Oliveira, some rights reserved (CC BY-NC)"
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "removidas_do_indice_publicado": [
+  "genipa_americana/198336222.jpg",
+  "pityrocarpa_moniliformis/189385896.jpg",
+  "spondias_mombin/198336115.jpg"
+ ],
+ "motivo_remocao": "fotos 'todos os direitos reservados'",
+ "excluidas_na_revisao_humana": [
+  {
+   "chave": "-126411804_126411804",
+   "url": "https://commons.wikimedia.org/wiki/File:Aroeira_salsa.jpg",
+   "motivo": "aroeira-salsa é Schinus molle, não Astronium urundeuva"
+  },
+  {
+   "chave": "-77718955_77718955",
+   "url": "https://commons.wikimedia.org/wiki/File:Erythrina_mulungu_seed.jpeg",
+   "motivo": "é Erythrina mulungu, outra espécie da base"
+  },
+  {
+   "chave": "-49259728_49259728",
+   "url": "https://commons.wikimedia.org/wiki/File:Noronha2014_28.jpg",
+   "motivo": "sem categoria de espécie no Commons; não verificável"
+  }
+ ],
+ "descartadas_automaticamente": {
+  "licenca": 0,
+  "observacao_no_teste": 0,
+  "copia_de_foto_de_teste": 0,
+  "repetida_de_referencia": 1
+ },
+ "commons_descartadas_autor_com_foto_no_teste": [
+  "-152716018_152716018",
+  "-198649040_198649040"
+ ],
+ "refs_total": 2387
+}
